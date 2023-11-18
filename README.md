@@ -1,7 +1,6 @@
 ### Hi there
 ### My name is Kyle Scudder 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kylescudder.kylescudder)
 [![Github](https://img.shields.io/github/followers/kylescudder?label=Follow&style=social)](https://github.com/kylescudder)
 
 <img src="https://i.imgur.com/c0K3M6z.jpg" width="300" alt="me" />
