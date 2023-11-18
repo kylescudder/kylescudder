@@ -1,6 +1,9 @@
 ### Hi there
 ### My name is Kyle Scudder 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kylescudder.kylescudder)
+[![Github](https://img.shields.io/github/followers/kylescudder?label=Follow&style=social)](https://github.com/kylescudder)
+
 <img src="https://i.imgur.com/c0K3M6z.jpg" width="300" alt="me" />
 
 I am a software developer from Hastings, UK. I enjoy software development and live music. My background is primarily in .NET and C#, but in the last few years have been working more and more in Typescript, utilising frameworks like NextJS.
