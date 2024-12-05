@@ -11,12 +11,13 @@ My portfolio can be found [here](https://kylescudder.co.uk)!
 
 #### I am currently working on a few projects:
 
-- [The Date Pot](https://github.com/Kyle-Scudder/the-date-pot) - currently rewriting an existing .NET/SQL project into a NextJS/MongoDB solution.
-- [Things To Do](https://github.com/Kyle-Scudder/things-to-do) - currently rewriting an existing .NET/SQL project into a NextJS/MongoDB solution.
+- [The Date Pot](https://github.com/kylescudder/the-date-pot) - NextJS/PostgreSQL site for recording things like Artisan Coffee ratings, a list of records we want/have, films we have watched or want to watch etc.
+- [Big Day Planner](https://github.com/kylescudder/big-day-planner) - NextJS/PostgreSQL site for recording RSVPs, menu choices, song choices, and displaying details for your big day!.
 
-#### I am planning on workig on a few projects:
+#### I am planning on working on a few projects:
 
-- [The Recipe Saver](https://github.com/kylescudder/Recipe-Saver) - rewrite an existing .NET/SQL project into a NextJS/MongoDB solution.
+- [dotfiles](https://github.com/kylescudder/dotfiles) - I am currently getting more into ricing my Arch (btw) install, and am seemingly spending more and more time in my dotfiles.
+- [scripts](https://github.com/kylescudder/scripts) - scripts used by my Arch (btw) install, as well as setup scripts for the various machines I use so I can get up and running with less time spent reinstalling everything.
 
 ### You can reach me on
 
@@ -41,6 +42,7 @@ My portfolio can be found [here](https://kylescudder.co.uk)!
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1280px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/></a> 
+<a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" width="40" height="40"/></a> 
 
 #### Languages
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
@@ -57,20 +59,5 @@ My portfolio can be found [here](https://kylescudder.co.uk)!
 
 #### Hosting
 <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/></a> 
-<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://ayushmanbh.netlify.app/static/media/netlify.c779369f.svg" alt="netlify" width="40" height="40"/></a> 
-
-
-<!--
-**kylescudder/kylescudder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://ayushmanbh.netlify.app/static/media/netlify.c779369f.svg" alt="netlify" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/></a>
