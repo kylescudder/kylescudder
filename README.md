@@ -12,7 +12,8 @@ My portfolio can be found [here](https://kylescudder.co.uk)!
 #### I am currently working on a few projects:
 
 - [The Date Pot](https://github.com/kylescudder/the-date-pot) - NextJS/PostgreSQL site for recording things like Artisan Coffee ratings, a list of records we want/have, films we have watched or want to watch etc.
-- [Big Day Planner](https://github.com/kylescudder/big-day-planner) - NextJS/PostgreSQL site for recording RSVPs, menu choices, song choices, and displaying details for your big day!.
+- [Big Day Planner](https://github.com/kylescudder/big-day-planner) - NextJS/PostgreSQL site for recording RSVPs, menu choices, song choices, and displaying details for your big day!
+- [Jai Scudder Plumbing](https://github.com/kylescudder/jaiscudderplumbing) - Astro Portfolio site for my dad, who runs a plumbing and property maintenance business. Used (along with [https://github.com/kylescudder/kylescudder.co.uk](https://github.com/kylescudder/kylescudder.co.uk)) as an intro to Astro for static content sites.
 
 #### I am planning on working on a few projects:
 
